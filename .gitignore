@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow directories (so Git can find files inside them)
+!*/
+
+# Allow Python scripts
+!*.py
+
+# Allow README files
+!README.md
+
+# Keep .gitignore itself
+!.gitignore
